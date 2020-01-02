@@ -1,2 +1,2 @@
-# Computing4DataAnalysis-.gitignore
+# Computing4DataAnalysis
 Computing for Data Analysis
