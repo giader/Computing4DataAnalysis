@@ -1,0 +1,5 @@
+x <- as.Date("1970-01-01")
+unclass(x)
+xe <- Sys.time()
+p <- as.POSIXlt(xe)
+names(unclass(p))
